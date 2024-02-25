@@ -1,0 +1,21 @@
+{
+    "commonData": {
+      "url": "https://www.google.com/"
+    },
+    "addCartItem":{
+      "searchGoogleOption":"Amazon shopping online",
+      "searchText":"shopping",
+      "searchItem":"chocolate",
+      "favChocolate": "Cadbury Dairy Milk Silk Fruit and Nut Chocolate Bar, 137 g (Pack of 3)",
+      "filterValue":"fourStarFilter"
+    },
+
+    "createAccountData": {
+      "searchGoogleOption":"amazon registration link",
+      "userName": "Nivashini Elanchezhian",
+      "userPhoneNumber": "8J9231489",
+      "expectedInvalidPhoneNumberMessage": "The mobile number you entered does not seem to be valid",
+      "expectedEmptyPasswordMessage": "Enter your password"
+    }
+  }
+  
